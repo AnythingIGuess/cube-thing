@@ -8,3 +8,8 @@ for cubing things
 # Average
 
 21.66
+
+
+# Sources
+
+https://cubingtime.com/timer
